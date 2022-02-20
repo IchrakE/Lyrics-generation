@@ -60,6 +60,7 @@ The automated readability index (ARI) is a readability test for English texts, d
 Flesch Reading Ease Score gives a text a score between 1 and 100, with 100 being the highest readability score. Scoring between 70 to 80 is equivalent to school grade level 8. This means text should be fairly easy for the average adult to read [1].
 
 The Flesch–Kincaid readability tests are readability tests designed to indicate how difficult a passage in English is to understand [4] . 
+![image](https://user-images.githubusercontent.com/99397991/154858706-7cafcef4-f4a4-4d6a-a8a0-887c227163ed.png)
 
 
 Using these metrics, the goal is to make a text as readable as the original text, because even the original text - lyrics- are not so readable. 
