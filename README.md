@@ -49,7 +49,7 @@ Fuzzy matching
 
 # Evaluation metrics 
 
- Evaluating the models was a real  challenge in this project as there doesn't exist a defined metric for this problem ‘ Poetry generation’ although the range of metrics proposed for ‘Text generation’ and its different subfields that are described in the following survey. 
+ Evaluating the models was a real  challenge in this project as there are not any defined metric for this problem ‘ Poetry generation’ although the range of metrics proposed for ‘Text generation’ and its different subfields that are described in the following survey. 
 So, by identifying the problem of the outputs of my models I select a precise range of metrics.
 The problem with my models’ outputs was the READABILITY of generated text, going from the Markov chain to the deepest LSTM proposed model. 
 Even thought, the model is able to generate word, it doesn’t necessary makes sense, without talking about char-based model, where generated text contain inexisting words.
