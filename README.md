@@ -1,7 +1,7 @@
 # Lyrics Generation
 
 # Introduction and objectif
-This repositry is for my DMs and project for the deep learning lesson.
+
 
  The goal of this project is to implement and test various approaches to text generation: starting from simple Markov Chains, through neural networks (LSTM): word-based approach and char-based approach. 
  The particularity of this generation task is that the lyrics are rhythmic yet at the same time are not necessarily meaningful. 
