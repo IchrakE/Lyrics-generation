@@ -1,4 +1,4 @@
-# Deep_learning_M2MO
+# Lyrics Generation
 
 # Introduction and objectif
 This repositry is for my DMs and project for the deep learning lesson.
